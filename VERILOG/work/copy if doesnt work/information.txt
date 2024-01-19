@@ -1,0 +1,2 @@
+These are dependency files required to run Modelsim verilog codes. Usually they are created by modelsim by default so the .v files are enough.
+However if the files are not created, they are here.
