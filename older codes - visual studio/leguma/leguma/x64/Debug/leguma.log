@@ -1,0 +1,10 @@
+﻿  leguma.c
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(19,23): warning C4047: '<=': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(16,45): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(17,45): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(18,41): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(30,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(42,9): warning C4013: 'afisareNume' undefined; assuming extern returning int
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(75,65): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(101,5): warning C4013: 'citire' undefined; assuming extern returning int
+C:\Users\paulb\source\repos\leguma\leguma\leguma.c(96,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

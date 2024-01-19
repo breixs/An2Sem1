@@ -1,0 +1,2 @@
+﻿testlab2.obj : error LNK2005: main already defined in lab9.obj
+C:\Users\paulb\source\repos\testlab2\x64\Debug\testlab2.exe : fatal error LNK1169: one or more multiply defined symbols found

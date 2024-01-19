@@ -1,0 +1,4 @@
+﻿  nujfrt.c
+C:\Users\paulb\source\repos\nujcoia\nujcoia\nujfrt.c(24,45): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\nujcoia\nujcoia\nujfrt.c(56,23): warning C4013: 'strcmp' undefined; assuming extern returning int
+  nujcoia.vcxproj -> C:\Users\paulb\source\repos\nujcoia\x64\Debug\nujcoia.exe

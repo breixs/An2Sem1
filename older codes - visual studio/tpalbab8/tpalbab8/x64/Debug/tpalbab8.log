@@ -1,0 +1,4 @@
+﻿  tplab8.c
+C:\Users\paulb\source\repos\tpalbab8\tpalbab8\tplab8.c(28,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\paulb\source\repos\tpalbab8\tpalbab8\tplab8.c(8,10): warning C4101: 'i': unreferenced local variable
+  tpalbab8.vcxproj -> C:\Users\paulb\source\repos\tpalbab8\x64\Debug\tpalbab8.exe

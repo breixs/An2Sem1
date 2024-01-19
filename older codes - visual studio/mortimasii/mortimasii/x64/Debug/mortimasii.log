@@ -1,0 +1,3 @@
+﻿  mortiimasii.c
+C:\Users\paulb\source\repos\mortimasii\mortimasii\mortiimasii.c(16,37): warning C4101: 'i': unreferenced local variable
+  mortimasii.vcxproj -> C:\Users\paulb\source\repos\mortimasii\x64\Debug\mortimasii.exe

@@ -1,0 +1,21 @@
+﻿  matrice_dinamica_2.c
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(15,26): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(19,11): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(42,11): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(42,11): warning C4313: 'printf': '%c' in format string conflicts with argument 1 of type 'char *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(57,12): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(57,12): warning C4313: 'printf': '%c' in format string conflicts with argument 1 of type 'char *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(65,27): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(96,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(98,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(100,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(102,8): warning C4477: 'scanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(106,26): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(107,30): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(108,30): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(109,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(114,11): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(114,11): warning C4313: 'printf': '%c' in format string conflicts with argument 1 of type 'char *'
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(143,10): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\paulb\source\repos\matrice _dinamica_2\matrice _dinamica_2\matrice_dinamica_2.c(124,18): warning C4101: 'i': unreferenced local variable
+  matrice _dinamica_2.vcxproj -> C:\Users\paulb\source\repos\matrice _dinamica_2\x64\Debug\matrice _dinamica_2.exe

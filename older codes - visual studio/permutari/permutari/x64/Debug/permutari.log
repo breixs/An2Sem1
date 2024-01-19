@@ -1,0 +1,3 @@
+﻿  permutari.c
+C:\Users\paulb\source\repos\permutari\permutari\permutari.c(19): warning C4716: 'afisare': must return a value
+  permutari.vcxproj -> C:\Users\paulb\source\repos\permutari\x64\Debug\permutari.exe

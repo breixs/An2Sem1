@@ -1,0 +1,4 @@
+﻿  sdalab11.c
+C:\Users\paulb\source\repos\sdalab11\sdalab11\sdalab11.c(103,6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paulb\source\repos\sdalab11\sdalab11\sdalab11.c(104,6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  sdalab11.vcxproj -> C:\Users\paulb\source\repos\sdalab11\x64\Debug\sdalab11.exe

@@ -1,0 +1,5 @@
+﻿  bagpulicica.c
+C:\Users\paulb\source\repos\bagpulicica\bagpulicica\bagpulicica.c(98,7): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paulb\source\repos\bagpulicica\bagpulicica\bagpulicica.c(100,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\paulb\source\repos\bagpulicica\bagpulicica\bagpulicica.c(102,25): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  bagpulicica.vcxproj -> C:\Users\paulb\source\repos\bagpulicica\x64\Debug\bagpulicica.exe

@@ -1,0 +1,3 @@
+echipament1 0 1200 2 2024
+echipament2 1 5000 4 2023
+echipament3 2 4000 3 2026

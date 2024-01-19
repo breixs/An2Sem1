@@ -1,0 +1,10 @@
+﻿  testpointeri.c
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(14,30): warning C4101: 'i': unreferenced local variable
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(38,9): warning C4101: 'j': unreferenced local variable
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(59,19): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(72,20): warning C4047: '<=': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(110,31): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(110,30): warning C4024: 'afisare_media_de_viata': different types for formal and actual parameter 2
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(113,18): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\testpointeri\testpointeri\testpointeri.c(113,17): warning C4024: 'afisare_p': different types for formal and actual parameter 2
+  testpointeri.vcxproj -> C:\Users\paulb\source\repos\testpointeri\x64\Debug\testpointeri.exe

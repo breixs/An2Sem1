@@ -1,0 +1,9 @@
+﻿  2.4.c
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(12,23): error C2109: subscript requires array or pointer type
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(12,10): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(12,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(12,10): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(23,23): error C2109: subscript requires array or pointer type
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(23,11): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(23,11): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\paulb\source\repos\2.4\2.4\2.4.c(23,11): message : the missing variadic argument 1 is required by format string '%d'

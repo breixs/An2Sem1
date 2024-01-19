@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fisierele", "fisierele\fisierele.vcxproj", "{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Debug|x64.ActiveCfg = Debug|x64
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Debug|x64.Build.0 = Debug|x64
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Debug|x86.Build.0 = Debug|Win32
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Release|x64.ActiveCfg = Release|x64
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Release|x64.Build.0 = Release|x64
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Release|x86.ActiveCfg = Release|Win32
+		{1554C5B4-5AFC-424E-ADD5-AC6FEBD252A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D6A7092-7283-4CF3-B77E-61F19BD8681B}
+	EndGlobalSection
+EndGlobal

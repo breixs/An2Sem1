@@ -1,0 +1,3 @@
+﻿  exlab4.cpp
+C:\Users\paulb\source\repos\temapoo\temapoo\exlab4.cpp(138,10): warning C4101: 'producator': unreferenced local variable
+  temapoo.vcxproj -> C:\Users\paulb\source\repos\temapoo\x64\Debug\temapoo.exe

@@ -1,0 +1,6 @@
+﻿  lab6.c
+C:\Users\paulb\source\repos\lab6\lab6\lab6.c(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\paulb\source\repos\lab6\lab6\lab6.c(20,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\paulb\source\repos\lab6\lab6\lab6.c(20,23): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\paulb\source\repos\lab6\lab6\lab6.c(20,23): message : placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  lab6.vcxproj -> C:\Users\paulb\source\repos\lab6\x64\Debug\lab6.exe

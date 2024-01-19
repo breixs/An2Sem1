@@ -1,0 +1,7 @@
+﻿  tp1.a.c
+C:\Users\paulb\source\repos\pregatire tp\pregatire tp\tp1.a.c(69,14): warning C4098: 'impar': 'void' function returning a value
+C:\Users\paulb\source\repos\pregatire tp\pregatire tp\tp1.a.c(75,14): warning C4098: 'impar': 'void' function returning a value
+C:\Users\paulb\source\repos\pregatire tp\pregatire tp\tp1.a.c(81,14): warning C4098: 'impar': 'void' function returning a value
+C:\Users\paulb\source\repos\pregatire tp\pregatire tp\tp1.a.c(87,14): warning C4098: 'impar': 'void' function returning a value
+C:\Users\paulb\source\repos\pregatire tp\pregatire tp\tp1.a.c(55,8): warning C4101: 'out': unreferenced local variable
+  pregatire tp.vcxproj -> C:\Users\paulb\source\repos\pregatire tp\x64\Debug\pregatire tp.exe

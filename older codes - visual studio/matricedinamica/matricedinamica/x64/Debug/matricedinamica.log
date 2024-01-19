@@ -1,0 +1,6 @@
+﻿  matricedinamica.c
+C:\Users\paulb\source\repos\matricedinamica\matricedinamica\matricedinamica.c(12,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int **'
+C:\Users\paulb\source\repos\matricedinamica\matricedinamica\matricedinamica.c(23,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\paulb\source\repos\matricedinamica\matricedinamica\matricedinamica.c(23,11): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\paulb\source\repos\matricedinamica\matricedinamica\matricedinamica.c(32,9): warning C4101: 'opt': unreferenced local variable
+  matricedinamica.vcxproj -> C:\Users\paulb\source\repos\matricedinamica\x64\Debug\matricedinamica.exe

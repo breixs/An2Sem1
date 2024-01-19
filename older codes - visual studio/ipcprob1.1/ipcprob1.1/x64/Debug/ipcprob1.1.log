@@ -1,0 +1,4 @@
+﻿  probipc1.1.c
+C:\Users\paulb\source\repos\ipcprob1.1\ipcprob1.1\probipc1.1.c(77,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\paulb\source\repos\ipcprob1.1\ipcprob1.1\probipc1.1.c(73,12): warning C4101: 'bit': unreferenced local variable
+  ipcprob1.1.vcxproj -> C:\Users\paulb\source\repos\ipcprob1.1\x64\Debug\ipcprob1.1.exe

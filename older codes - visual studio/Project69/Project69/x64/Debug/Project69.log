@@ -1,0 +1,26 @@
+﻿  lab.c
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(9,17): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(9,13): warning C4024: 'scanf': different types for formal and actual parameter 1
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(15,14): error C2297: '&': not valid as right operand has type 'float'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(15,3): error C2198: 'scanf': too few arguments for call
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(16,14): error C2297: '&': not valid as right operand has type 'float'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(16,3): error C2198: 'scanf': too few arguments for call
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(17,5): error C2106: '=': left operand must be l-value
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(18,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'float *'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(18,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'float *'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(23,5): error C2106: '=': left operand must be l-value
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(24,26): error C2296: '&': not valid as left operand has type 'char [14]'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(24,26): error C2297: '&': not valid as right operand has type 'float'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(24,3): error C2198: 'printf': too few arguments for call
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(29,5): error C2106: '=': left operand must be l-value
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(30,23): error C2296: '&': not valid as left operand has type 'char [11]'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(30,23): error C2297: '&': not valid as right operand has type 'float'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(30,3): error C2198: 'printf': too few arguments for call
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(35,5): error C2106: '=': left operand must be l-value
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(36,26): error C2296: '&': not valid as left operand has type 'char [14]'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(36,26): error C2297: '&': not valid as right operand has type 'float'
+C:\Users\paulb\source\repos\Project69\Project69\lab.c(36,3): error C2198: 'printf': too few arguments for call
+  lab2.c
+C:\Users\paulb\source\repos\Project69\Project69\lab2.c(7,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\paulb\source\repos\Project69\Project69\lab2.c(8,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+  Generating Code...

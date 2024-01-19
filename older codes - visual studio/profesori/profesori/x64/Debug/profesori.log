@@ -1,0 +1,14 @@
+﻿  profesor.c
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(19,52): warning C4474: 'scanf' : too many arguments passed for format string
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(19,52): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(20,61): warning C4474: 'scanf' : too many arguments passed for format string
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(20,61): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(22,21): warning C4047: '<=': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(24,23): warning C4047: '>=': 'Profesor *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(24,43): warning C4047: '<=': 'Profesor *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(15,7): warning C4101: 'nume': unreferenced local variable
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(41,20): warning C4047: '<=': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(45,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'float *'
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(57,14): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\profesori\profesori\profesor.c(57,13): warning C4024: 'afisare': different types for formal and actual parameter 2
+  profesori.vcxproj -> C:\Users\paulb\source\repos\profesori\x64\Debug\profesori.exe

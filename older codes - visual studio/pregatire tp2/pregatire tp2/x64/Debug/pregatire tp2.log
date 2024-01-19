@@ -1,0 +1,7 @@
+﻿  pregatire_tp2.c
+C:\Users\paulb\source\repos\pregatire tp2\pregatire tp2\pregatire_tp2.c(28,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\paulb\source\repos\pregatire tp2\pregatire tp2\pregatire_tp2.c(30,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paulb\source\repos\pregatire tp2\pregatire tp2\pregatire_tp2.c(37,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paulb\source\repos\pregatire tp2\pregatire tp2\pregatire_tp2.c(52,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\paulb\source\repos\pregatire tp2\pregatire tp2\pregatire_tp2.c(54,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  pregatire tp2.vcxproj -> C:\Users\paulb\source\repos\pregatire tp2\x64\Debug\pregatire tp2.exe

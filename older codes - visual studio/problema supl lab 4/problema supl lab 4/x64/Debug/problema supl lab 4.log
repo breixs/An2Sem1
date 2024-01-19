@@ -1,0 +1,4 @@
+﻿  supllab4.c
+C:\Users\paulb\source\repos\problema supl lab 4\problema supl lab 4\supllab4.c(14,14): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\paulb\source\repos\problema supl lab 4\problema supl lab 4\supllab4.c(26,14): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+  problema supl lab 4.vcxproj -> C:\Users\paulb\source\repos\problema supl lab 4\x64\Debug\problema supl lab 4.exe

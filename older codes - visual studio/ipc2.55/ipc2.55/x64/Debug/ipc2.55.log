@@ -1,0 +1,7 @@
+﻿  ipc2.55.c
+C:\Users\paulb\source\repos\ipc2.55\ipc2.55\ipc2.55.c(8,15): warning C4101: 'nr': unreferenced local variable
+C:\Users\paulb\source\repos\ipc2.55\ipc2.55\ipc2.55.c(8,19): warning C4101: 'nr2': unreferenced local variable
+C:\Users\paulb\source\repos\ipc2.55\ipc2.55\ipc2.55.c(7,17): warning C4101: 'aux': unreferenced local variable
+C:\Users\paulb\source\repos\ipc2.55\ipc2.55\ipc2.55.c(51,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paulb\source\repos\ipc2.55\ipc2.55\ipc2.55.c(68,12): warning C4101: 'j': unreferenced local variable
+  ipc2.55.vcxproj -> C:\Users\paulb\source\repos\ipc2.55\x64\Debug\ipc2.55.exe

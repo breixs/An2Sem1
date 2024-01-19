@@ -1,0 +1,3 @@
+﻿  tpinitial2.c
+C:\Users\paulb\source\repos\tpinitial2\tpinitial2\tpinitial2.c(23,6): warning C4553: '==': result of expression not used; did you intend '='?
+  tpinitial2.vcxproj -> C:\Users\paulb\source\repos\tpinitial2\x64\Debug\tpinitial2.exe

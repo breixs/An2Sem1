@@ -1,0 +1,3 @@
+﻿  test din.c
+C:\Users\paulb\source\repos\test dinamic\test dinamic\test din.c(22,13): warning C4013: 'poz' undefined; assuming extern returning int
+  test dinamic.vcxproj -> C:\Users\paulb\source\repos\test dinamic\x64\Debug\test dinamic.exe

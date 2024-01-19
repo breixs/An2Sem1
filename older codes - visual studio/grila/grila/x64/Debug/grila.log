@@ -1,0 +1,5 @@
+﻿  grila.c
+C:\Users\paulb\source\repos\grila\grila\grila.c(23,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\paulb\source\repos\grila\grila\grila.c(23,9): message : consider using '%zd' in the format string
+C:\Users\paulb\source\repos\grila\grila\grila.c(22,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [8]'
+  grila.vcxproj -> C:\Users\paulb\source\repos\grila\x64\Debug\grila.exe

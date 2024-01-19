@@ -1,0 +1,5 @@
+﻿  hihihiha.cpp
+C:\Users\paulb\source\repos\labex3\labex3\hihihiha.cpp(11,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\paulb\source\repos\labex3\labex3\hihihiha.cpp(29,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\paulb\source\repos\labex3\labex3\hihihiha.cpp(29,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  labex3.vcxproj -> C:\Users\paulb\source\repos\labex3\x64\Debug\labex3.exe

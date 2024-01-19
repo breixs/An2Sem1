@@ -1,0 +1,3 @@
+﻿  grila.c
+C:\Users\paulb\source\repos\grilaa\grilaa\grila.c(9,10): warning C4101: 'i': unreferenced local variable
+  grilaa.vcxproj -> C:\Users\paulb\source\repos\grilaa\x64\Debug\grilaa.exe

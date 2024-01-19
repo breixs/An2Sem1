@@ -1,0 +1,9 @@
+﻿  labtp8.7.c
+C:\Users\paulb\source\repos\labtp8.8\labtp8.8\labtp8.7.c(29,15): warning C4133: 'function': incompatible types - from 'char [3]' to 'FILE *const '
+C:\Users\paulb\source\repos\labtp8.8\labtp8.8\labtp8.7.c(29,19): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\labtp8.8\labtp8.8\labtp8.7.c(29,17): warning C4024: 'fprintf': different types for formal and actual parameter 2
+C:\Users\paulb\source\repos\labtp8.8\labtp8.8\labtp8.7.c(32,15): warning C4133: 'function': incompatible types - from 'char [3]' to 'FILE *const '
+C:\Users\paulb\source\repos\labtp8.8\labtp8.8\labtp8.7.c(32,19): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\labtp8.8\labtp8.8\labtp8.7.c(32,17): warning C4024: 'fprintf': different types for formal and actual parameter 2
+C:\Users\paulb\source\repos\labtp8.8\labtp8.8\labtp8.7.c(8,8): warning C4101: 'append': unreferenced local variable
+  labtp8.8.vcxproj -> C:\Users\paulb\source\repos\labtp8.8\x64\Debug\labtp8.8.exe

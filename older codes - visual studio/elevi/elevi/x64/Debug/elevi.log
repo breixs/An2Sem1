@@ -1,0 +1,8 @@
+﻿  elevi.c
+C:\Users\paulb\source\repos\elevi\elevi\elevi.c(19,20): warning C4047: '<=': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\elevi\elevi\elevi.c(21,22): warning C4047: '>=': 'Elev *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\elevi\elevi\elevi.c(21,42): warning C4047: '<=': 'Elev *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\elevi\elevi\elevi.c(27,20): warning C4047: '<=': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\elevi\elevi\elevi.c(15,27): warning C4101: 'c': unreferenced local variable
+C:\Users\paulb\source\repos\elevi\elevi\elevi.c(48,20): warning C4047: '<=': 'int' differs in levels of indirection from 'int *'
+  elevi.vcxproj -> C:\Users\paulb\source\repos\elevi\x64\Debug\elevi.exe

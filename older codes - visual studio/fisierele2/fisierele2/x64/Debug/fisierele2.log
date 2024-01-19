@@ -1,0 +1,3 @@
+﻿  fisierele.c
+C:\Users\paulb\source\repos\fisierele2\fisierele2\fisierele.c(69,12): warning C4101: 'k': unreferenced local variable
+  fisierele2.vcxproj -> C:\Users\paulb\source\repos\fisierele2\x64\Debug\fisierele2.exe

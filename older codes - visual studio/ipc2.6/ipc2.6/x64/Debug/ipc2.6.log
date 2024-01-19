@@ -1,0 +1,6 @@
+﻿  ipc2.6.c
+C:\Users\paulb\source\repos\ipc2.6\ipc2.6\ipc2.6.c(13,42): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\ipc2.6\ipc2.6\ipc2.6.c(13,37): warning C4024: 'strlen': different types for formal and actual parameter 1
+C:\Users\paulb\source\repos\ipc2.6\ipc2.6\ipc2.6.c(14,26): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\ipc2.6\ipc2.6\ipc2.6.c(14,21): warning C4024: 'strcpy': different types for formal and actual parameter 2
+  ipc2.6.vcxproj -> C:\Users\paulb\source\repos\ipc2.6\x64\Debug\ipc2.6.exe

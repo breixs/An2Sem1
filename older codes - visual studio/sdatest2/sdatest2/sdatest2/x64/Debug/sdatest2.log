@@ -1,0 +1,7 @@
+﻿  sdatest2.c
+C:\Users\paulb\source\repos\sdatest2\sdatest2\sdatest2\sdatest2.c(74,13): warning C4047: '=': 'student *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\sdatest2\sdatest2\sdatest2\sdatest2.c(84,29): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+C:\Users\paulb\source\repos\sdatest2\sdatest2\sdatest2\sdatest2.c(84,26): warning C4024: 'strcmp': different types for formal and actual parameter 2
+C:\Users\paulb\source\repos\sdatest2\sdatest2\sdatest2\sdatest2.c(101,41): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Users\paulb\source\repos\sdatest2\sdatest2\sdatest2\sdatest2.c(101,33): warning C4024: 'cautare_binara': different types for formal and actual parameter 4
+  sdatest2.vcxproj -> C:\Users\paulb\source\repos\sdatest2\sdatest2\x64\Debug\sdatest2.exe

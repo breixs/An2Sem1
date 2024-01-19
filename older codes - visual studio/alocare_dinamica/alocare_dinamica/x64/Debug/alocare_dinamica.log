@@ -1,0 +1,8 @@
+﻿  alocare dinamica.c
+C:\Users\paulb\source\repos\alocare_dinamica\alocare_dinamica\alocare dinamica.c(67,10): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\paulb\source\repos\alocare_dinamica\alocare_dinamica\alocare dinamica.c(67,10): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+C:\Users\paulb\source\repos\alocare_dinamica\alocare_dinamica\alocare dinamica.c(67,10): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\paulb\source\repos\alocare_dinamica\alocare_dinamica\alocare dinamica.c(68,10): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\paulb\source\repos\alocare_dinamica\alocare_dinamica\alocare dinamica.c(68,10): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\paulb\source\repos\alocare_dinamica\alocare_dinamica\alocare dinamica.c(68,10): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+  alocare_dinamica.vcxproj -> C:\Users\paulb\source\repos\alocare_dinamica\x64\Debug\alocare_dinamica.exe

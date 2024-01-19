@@ -1,0 +1,5 @@
+﻿  String.c
+C:\Users\paulb\source\repos\string\string\String.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\paulb\source\repos\string\string\String.c(8,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\paulb\source\repos\string\string\String.c(6,23): warning C4101: 'j': unreferenced local variable
+  string.vcxproj -> C:\Users\paulb\source\repos\string\x64\Debug\string.exe

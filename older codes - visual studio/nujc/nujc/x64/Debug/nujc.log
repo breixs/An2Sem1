@@ -1,0 +1,5 @@
+﻿  nujc.c
+C:\Users\paulb\source\repos\nujc\nujc\nujc.c(30,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paulb\source\repos\nujc\nujc\nujc.c(37,97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paulb\source\repos\nujc\nujc\nujc.c(18,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  nujc.vcxproj -> C:\Users\paulb\source\repos\nujc\x64\Debug\nujc.exe

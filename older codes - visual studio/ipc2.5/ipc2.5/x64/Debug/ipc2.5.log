@@ -1,0 +1,6 @@
+﻿  ipc2.5.c
+C:\Users\paulb\source\repos\ipc2.5\ipc2.5\ipc2.5.c(55,22): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\ipc2.5\ipc2.5\ipc2.5.c(57,17): warning C4047: '==': 'int' differs in levels of indirection from 'char *'
+C:\Users\paulb\source\repos\ipc2.5\ipc2.5\ipc2.5.c(57,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\paulb\source\repos\ipc2.5\ipc2.5\ipc2.5.c(50,8): warning C4101: 'j': unreferenced local variable
+  ipc2.5.vcxproj -> C:\Users\paulb\source\repos\ipc2.5\x64\Debug\ipc2.5.exe

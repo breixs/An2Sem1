@@ -1,0 +1,5 @@
+﻿  sdatest.c
+C:\Users\paulb\source\repos\sdatest\sdatest\sdatest.c(26,44): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\sdatest\sdatest\sdatest.c(48,9): warning C4101: 'index': unreferenced local variable
+C:\Users\paulb\source\repos\sdatest\sdatest\sdatest.c(50,7): warning C4101: 'caracter': unreferenced local variable
+  sdatest.vcxproj -> C:\Users\paulb\source\repos\sdatest\x64\Debug\sdatest.exe

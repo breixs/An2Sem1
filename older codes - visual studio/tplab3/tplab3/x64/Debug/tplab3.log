@@ -1,0 +1,5 @@
+﻿  tplab4.c
+C:\Users\paulb\source\repos\tplab3\tplab3\tplab4.c(19,6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paulb\source\repos\tplab3\tplab3\tplab4.c(22,17): warning C4133: 'function': incompatible types - from 'char [8]' to 'int *'
+C:\Users\paulb\source\repos\tplab3\tplab3\tplab4.c(17,6): warning C4101: 'i': unreferenced local variable
+  tplab3.vcxproj -> C:\Users\paulb\source\repos\tplab3\x64\Debug\tplab3.exe

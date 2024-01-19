@@ -1,0 +1,9 @@
+﻿  ipc2.8.c
+C:\Users\paulb\source\repos\ipc2.8\ipc2.8\ipc2.8.c(51,19): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\ipc2.8\ipc2.8\ipc2.8.c(55,19): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\ipc2.8\ipc2.8\ipc2.8.c(69,19): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\paulb\source\repos\ipc2.8\ipc2.8\ipc2.8.c(102,23): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\ipc2.8\ipc2.8\ipc2.8.c(102,22): warning C4024: 'reducere': different types for formal and actual parameter 2
+C:\Users\paulb\source\repos\ipc2.8\ipc2.8\ipc2.8.c(105,19): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\ipc2.8\ipc2.8\ipc2.8.c(105,18): warning C4024: 'biti': different types for formal and actual parameter 2
+  ipc2.8.vcxproj -> C:\Users\paulb\source\repos\ipc2.8\x64\Debug\ipc2.8.exe

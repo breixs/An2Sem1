@@ -1,0 +1,4 @@
+﻿  lab8.c
+C:\Users\paulb\source\repos\lab9\lab9\lab8.c(24,1): warning C4005: 'max': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1282): message : see previous definition of 'max'
+  lab9.vcxproj -> C:\Users\paulb\source\repos\lab9\x64\Debug\lab9.exe

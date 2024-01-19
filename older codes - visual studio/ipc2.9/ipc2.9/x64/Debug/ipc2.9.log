@@ -1,0 +1,4 @@
+﻿  ipc2.9.c
+C:\Users\paulb\source\repos\ipc2.9\ipc2.9\ipc2.9.c(21,58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paulb\source\repos\ipc2.9\ipc2.9\ipc2.9.c(37,37): warning C4047: '=': 'char *' differs in levels of indirection from 'char'
+  ipc2.9.vcxproj -> C:\Users\paulb\source\repos\ipc2.9\x64\Debug\ipc2.9.exe

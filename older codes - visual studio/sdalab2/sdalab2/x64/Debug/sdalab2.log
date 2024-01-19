@@ -1,0 +1,13 @@
+﻿  sdalab2.c
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(53,83): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(53,79): warning C4024: 'printf': different types for formal and actual parameter 1
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(58,83): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(58,79): warning C4024: 'printf': different types for formal and actual parameter 1
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(63,83): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(63,79): warning C4024: 'printf': different types for formal and actual parameter 1
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(68,83): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(68,79): warning C4024: 'printf': different types for formal and actual parameter 1
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(73,87): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(73,83): warning C4024: 'printf': different types for formal and actual parameter 1
+C:\Users\paulb\source\repos\sdalab2\sdalab2\sdalab2.c(23,12): warning C4101: 'temp': unreferenced local variable
+  sdalab2.vcxproj -> C:\Users\paulb\source\repos\sdalab2\x64\Debug\sdalab2.exe

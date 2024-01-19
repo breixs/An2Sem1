@@ -1,0 +1,10 @@
+Ionescu Vasile 8 9 10
+Pop Paul 7 5 4
+Brei Alex 5 6 4
+Berindeiu Sergiu 10 5 3
+Mihut Vlad 5 6 8
+Popescu Marian 7 7 4
+Slavu Andrei 3 2 7
+Cardos David 10 7 6
+Davinci Leonard 6 5 7
+Dragnea Liviu 4 5 3

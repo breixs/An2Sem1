@@ -1,0 +1,4 @@
+﻿  meniu1.c
+C:\Users\paulb\source\repos\meniu1\meniu1\meniu1.c(8,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\paulb\source\repos\meniu1\meniu1\meniu1.c(27,11): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\paulb\source\repos\meniu1\meniu1\meniu1.c(8): error C4700: uninitialized local variable 'n' used
