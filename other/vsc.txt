@@ -1,0 +1,3 @@
+pula; ana; 10
+caca; lupa; 8
+titi; qupa; 4
