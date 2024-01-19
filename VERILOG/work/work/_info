@@ -1,0 +1,231 @@
+m255
+K3
+13
+cModel Technology
+dC:\modelsim\modelsim\win32aloem\proiecte
+vadd
+I[kI6_bH8hSJzk[C<fiT5_1
+V0e_EKYMOQ<oeXQB<cBRQQ3
+Z0 dC:\modelsim\modelsim\win32aloem\proiecte\work
+Z1 w1670509391
+Z2 8C:/modelsim/modelsim/win32aloem/proiecte/work/lab11.v
+Z3 FC:/modelsim/modelsim/win32aloem/proiecte/work/lab11.v
+L0 2
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 1P`4<Mi@N450l`fkZi>>31
+!s85 0
+!s101 -O0
+vcomp
+ISjfNec55fZ>:CRc7dcKK_3
+VkDEmRGJfeZ;BO24E87XHd2
+Z7 dC:\modelsim\modelsim\win32aloem\proiecte\work
+Z8 w1673536286
+Z9 8C:/Users/paulb/Downloads/ex1 (4).v
+Z10 FC:/Users/paulb/Downloads/ex1 (4).v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 09T>1P[>`gA_fWd_[6WBI1
+!s85 0
+!s101 -O0
+vcomp_tb
+I6Fh^1WDh:T@2E3o1eK8FW0
+VjJfAV4^CSPnPLfe0O=>L60
+R7
+R8
+R9
+R10
+L0 28
+R4
+r1
+31
+R5
+R6
+!s100 YjbPiab>26R?QgXbIB9DF1
+!s85 0
+!s101 -O0
+vdiagram
+I_BW0dcMBZ2F<MAE67^lJB3
+VG=A4BCNUi44^ejN1lU8=[2
+R7
+Z11 w1673535921
+Z12 8C:/Users/paulb/Downloads/ex3 (1).v
+Z13 FC:/Users/paulb/Downloads/ex3 (1).v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 o6H?oiL`T0QeSEBQ_4ClK1
+!s85 0
+!s101 -O0
+vdiagram_tb
+IEWl3aCRO?mMMTJTHhY`9F0
+VgljKX67ZON>zWGWngR`1O1
+R7
+R11
+R12
+R13
+L0 5
+R4
+r1
+31
+R5
+R6
+!s100 >QgFn1k[LJGP_EX1bnQ:41
+!s85 0
+!s101 -O0
+vmult
+IJ5m_H8F>z`WC_^jo4X>i`1
+VWomZXh5YQoG00b<Lgc6n52
+R7
+R1
+R2
+R3
+L0 6
+R4
+r1
+31
+R5
+R6
+!s100 =f]<hBfLB>MG`h:P0;8?73
+!s85 0
+!s101 -O0
+vnuj
+IjWEb:W@hEFa0ZASc@[C0U3
+VbOZ`I6c<?nMXz^Ce7Za5m1
+R7
+w1668424313
+8C:/modelsim/modelsim/win32aloem/proiecte/work/nuj.v
+FC:/modelsim/modelsim/win32aloem/proiecte/work/nuj.v
+L0 1
+R4
+r1
+31
+R6
+R5
+!s100 9__ckmiRjC2EHKU^;A]GO0
+!s85 0
+!s101 -O0
+vnuj_tb
+I_GL@O<6Z_j;3SKH]SQf?O3
+VE9dG]9dlECoL[nIonY>N41
+R7
+w1668424352
+8C:/modelsim/modelsim/win32aloem/proiecte/work/nuj_tb.v
+FC:/modelsim/modelsim/win32aloem/proiecte/work/nuj_tb.v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 VWKP;kKnL83EFf?^4Y_8?2
+!s85 0
+!s101 -O0
+vop
+IFJk003[3IzBTa1i@Po]fm2
+V6L`?1;0ClJJlB;a:zaCm90
+R7
+R1
+R2
+R3
+L0 10
+R4
+r1
+31
+R5
+R6
+!s100 ^1IZLReJIj^U[kSY2oUL`2
+!s85 0
+!s101 -O0
+vorder
+IAnH>T44G]=<E:GaL<@9Lg3
+VKFVHUW2F4`lm@Z4[@c;@43
+R7
+Z14 w1673536984
+Z15 8C:/Users/paulb/Downloads/ex4 (1).v
+Z16 FC:/Users/paulb/Downloads/ex4 (1).v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 BQk92RG_SWXgG;RhW=F2l1
+!s85 0
+!s101 -O0
+vorder_tb
+ILV>L`EPM86:EF3cz_FeLf2
+VG=WYeD_:Z>f_aTVMBN4Pm3
+R7
+R14
+R15
+R16
+L0 15
+R4
+r1
+31
+R5
+R6
+!s100 =Kib;GY7J1IFX`COzYAXh1
+!s85 0
+!s101 -O0
+vtransform_tb
+IDzlmZS`7L>[KFhTb;_VZ:2
+VigNNC>Eh6?d;N6J9;KRX50
+R7
+w0
+8C:/Users/paulb/Downloads/ex2 (1).v
+FC:/Users/paulb/Downloads/ex2 (1).v
+L0 12
+R4
+r1
+31
+R5
+R6
+!s100 5aGo5oV:?`eZn_dk=SX082
+!s85 0
+!s101 -O0
+vTransformNumber
+I3<;_iGJbNd=PR@Y23e=W?3
+VVUb4W_nNgYGTC:`0Oe=C<0
+R7
+w1671662453
+8C:/modelsim/modelsim/win32aloem/proiecte/work/hatz.v
+FC:/modelsim/modelsim/win32aloem/proiecte/work/hatz.v
+L0 1
+R4
+r1
+31
+R5
+R6
+n@transform@number
+!s100 2iDoNQQOl34NI?b<LdK4M2
+!s85 0
+!s101 -O0
+vTransformNumber_tb
+IKVlW3@]=6T8dLe`Am^LDW1
+V6`0N=kmf@_?^X;?ajDUiH0
+R7
+w1671634088
+8C:/Users/paulb/Downloads/TransformerNumber_tb.v
+FC:/Users/paulb/Downloads/TransformerNumber_tb.v
+L0 12
+R4
+r1
+31
+R5
+R6
+n@transform@number_tb
+!s100 AZLCn88Ekj7E33K23g`KB1
+!s85 0
+!s101 -O0

@@ -1,0 +1,11 @@
+C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v {0 {vlog -work work -nocovercells C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module LogicDiagram
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v(3): LHS in procedural continuous assignment may not be a net: x.
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v(4): LHS in procedural continuous assignment may not be a net: z.
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v(5): LHS in procedural continuous assignment may not be a net: y.
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v(6): LHS in procedural continuous assignment may not be a net: w.
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v(7): LHS in procedural continuous assignment may not be a net: q.
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/LogicDiagram.v(9): near "$display": syntax error, unexpected "SYSTEM_IDENTIFIER"
+
+} {4.0 10.0} {}}

@@ -1,0 +1,9 @@
+{C:/modelsim/modelsim/win32aloem/proiecte/work/exercitiu 2.v} {0 {vlog -work work -nocovercells {C:/modelsim/modelsim/win32aloem/proiecte/work/exercitiu 2.v}
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module exercitiu
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/exercitiu 2.v(1): near "2": syntax error, unexpected "INTEGER NUMBER", expecting ';'
+
+} {4.0 5.0} {}} {C:/modelsim/modelsim/win32aloem/proiecte/work/exercitiu 2_tb.v} {1 {vlog -work work -nocovercells {C:/modelsim/modelsim/win32aloem/proiecte/work/exercitiu 2_tb.v}
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+
+} {} {}}

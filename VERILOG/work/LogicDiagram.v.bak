@@ -1,0 +1,11 @@
+module LogicDiagram (input[7:0]a, b, c, x, y, z, w, output [7:0]q);
+  always @ (*) begin
+    a & b =x;
+    c && x =z;
+    ~b || ~c=y;
+    a && y=w;
+    z || w=q;
+  end
+  $display ("%d", q);
+endmodule
+  

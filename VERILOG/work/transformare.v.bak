@@ -1,0 +1,18 @@
+module transformare (input[3:0] bin, output reg[3:0] bcd);
+  reg[3:0] i;
+  always @(*) begin
+    bcd = 4'b0000;
+    for (i = 0; i < 4; i = i + 1) 
+    begin
+      if (bin >= 5'b1010) 
+      begin
+        bcd[i] = bin[i] + 3'b01;
+        bin = bin + 3'b1001;
+      end 
+      else 
+      begin
+        bcd[i] = bin[i];
+      end
+    end
+  end
+endmodule

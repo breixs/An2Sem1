@@ -1,0 +1,17 @@
+C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v {0 {vlog -work work -nocovercells C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module TransformNumber
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(16): (vlog-2110) Illegal reference to net "sign_in".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(18): (vlog-2110) Illegal reference to net "sign_in".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(21): (vlog-2110) Illegal reference to net "n_out".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(26): (vlog-2110) Illegal reference to net "sign_in".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(28): (vlog-2110) Illegal reference to net "sign_in".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(30): (vlog-2110) Illegal reference to net "n_out".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(35): (vlog-2110) Illegal reference to net "sign_in".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(37): (vlog-2110) Illegal reference to net "sign_in".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(39): (vlog-2110) Illegal reference to net "n_out".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(53): (vlog-2110) Illegal reference to net "n_out".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(67): (vlog-2110) Illegal reference to net "n_out".
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(117): (vlog-2110) Illegal reference to net "n_out".
+
+} {4.0 16.0} {}}

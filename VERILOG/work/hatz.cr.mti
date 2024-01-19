@@ -1,0 +1,31 @@
+{C:/Users/paulb/Downloads/ex3 (1).v} {1 {vlog -work work -nocovercells {C:/Users/paulb/Downloads/ex3 (1).v}
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module diagram
+-- Compiling module diagram_tb
+
+Top level modules:
+	diagram_tb
+
+} {} {}} {C:/Users/paulb/Downloads/ex1 (4).v} {1 {vlog -work work -nocovercells {C:/Users/paulb/Downloads/ex1 (4).v}
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module comp
+-- Compiling module comp_tb
+
+Top level modules:
+	comp_tb
+
+} {} {}} {C:/Users/paulb/Downloads/ex4 (1).v} {1 {vlog -work work -nocovercells {C:/Users/paulb/Downloads/ex4 (1).v}
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module order
+-- Compiling module order_tb
+
+Top level modules:
+	order_tb
+
+} {} {}} {C:/Users/paulb/Downloads/ex2 (1).v} {0 {vlog -work work -nocovercells {C:/Users/paulb/Downloads/ex2 (1).v}
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module transform
+** Error: C:/Users/paulb/Downloads/ex2 (1).v(7): near "din5_IN": syntax error, unexpected "IDENTIFIER", expecting ';'
+-- Compiling module transform_tb
+
+} {4.0 5.0} {}}

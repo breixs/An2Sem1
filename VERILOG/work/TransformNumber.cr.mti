@@ -1,0 +1,14 @@
+C:/Users/paulb/Downloads/TransformerNumber_tb.v {1 {vlog -work work -nocovercells C:/Users/paulb/Downloads/TransformerNumber_tb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module TransformNumber_tb
+
+Top level modules:
+	TransformNumber_tb
+
+} {} {}} C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v {0 {vlog -work work -nocovercells C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module TransformNumber
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(29): near "3": syntax error, unexpected "INTEGER NUMBER"
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/TransformNumber.v(62): near "3": syntax error, unexpected "INTEGER NUMBER"
+
+} {4.0 6.0} {}}

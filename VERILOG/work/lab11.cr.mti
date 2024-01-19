@@ -1,0 +1,10 @@
+C:/modelsim/modelsim/win32aloem/proiecte/work/lab11.v {1 {vlog -work work -nocovercells C:/modelsim/modelsim/win32aloem/proiecte/work/lab11.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module add
+-- Compiling module mult
+-- Compiling module op
+
+Top level modules:
+	op
+
+} {} {}}

@@ -1,0 +1,29 @@
+C:/Users/paulb/Downloads/ex1.v {0 {vlog -work work -nocovercells C:/Users/paulb/Downloads/ex1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module comp
+** Error: C:/Users/paulb/Downloads/ex1.v(4): LHS in procedural continuous assignment may not be a net: in_0.
+** Error: C:/Users/paulb/Downloads/ex1.v(7): LHS in procedural continuous assignment may not be a net: in_1.
+-- Compiling module comp_tb
+
+} {4.0 6.0} {}} C:/Users/paulb/Downloads/ex2.v {0 {vlog -work work -nocovercells C:/Users/paulb/Downloads/ex2.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module transform
+** Error: C:/Users/paulb/Downloads/ex2.v(1): Packed dimension must specify a range.
+** Error: C:/Users/paulb/Downloads/ex2.v(1): Dynamic net arrays are not allowed.
+-- Compiling module transform_tb
+
+} {4.0 6.0} {}} C:/Users/paulb/Downloads/ex3.v {1 {vlog -work work -nocovercells C:/Users/paulb/Downloads/ex3.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module diagram
+-- Compiling module diagram_tb
+
+Top level modules:
+	diagram_tb
+
+} {} {}} C:/Users/paulb/Downloads/ex4.v {0 {vlog -work work -nocovercells C:/Users/paulb/Downloads/ex4.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module order
+** Error: C:/Users/paulb/Downloads/ex4.v(2): near "[": syntax error, unexpected '['
+-- Compiling module order_tb
+
+} {4.0 5.0} {}}

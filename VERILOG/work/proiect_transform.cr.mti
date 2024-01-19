@@ -1,0 +1,7 @@
+C:/modelsim/modelsim/win32aloem/proiecte/work/transformare.v {0 {vlog -work work -nocovercells C:/modelsim/modelsim/win32aloem/proiecte/work/transformare.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module transformare
+** Warning: C:/modelsim/modelsim/win32aloem/proiecte/work/transformare.v(10): [RDGN] - Redundant digits in numeric literal.
+** Error: C:/modelsim/modelsim/win32aloem/proiecte/work/transformare.v(10): (vlog-2110) Illegal reference to net "bin".
+
+} {5.0 6.0} {}}

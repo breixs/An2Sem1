@@ -1,0 +1,15 @@
+C:/modelsim/modelsim/win32aloem/proiecte/work/nuj_tb.v {1 {vlog -work work -nocovercells C:/modelsim/modelsim/win32aloem/proiecte/work/nuj_tb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module nuj_tb
+
+Top level modules:
+	nuj_tb
+
+} {} {}} C:/modelsim/modelsim/win32aloem/proiecte/work/nuj.v {1 {vlog -work work -nocovercells C:/modelsim/modelsim/win32aloem/proiecte/work/nuj.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module nuj
+
+Top level modules:
+	nuj
+
+} {} {}}
