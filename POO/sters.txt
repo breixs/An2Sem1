@@ -1,0 +1,4 @@
+tip: 2
+denumire: oolap
+numar sezoane: 6
+----------------------------------------

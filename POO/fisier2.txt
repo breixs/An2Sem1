@@ -1,0 +1,3 @@
+Numar in fisier:5
+Piscina in fisier: 1
+Sauna in fisier: 1
